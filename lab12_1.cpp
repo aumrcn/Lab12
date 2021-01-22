@@ -52,4 +52,4 @@ void stat(const double arrone[] , int N , double arrtwo[]){
     arrtwo[5] = min;
 
     return;
-}
+} 
